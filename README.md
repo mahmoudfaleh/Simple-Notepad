@@ -1,3 +1,3 @@
-# Simple-Notpad
+# Simple-Notepad
 
 Just A Simple Notepad Built In Scratch
